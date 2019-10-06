@@ -60,9 +60,7 @@ Date: 06-10-2019 Time: 09:39:48:005183_PM <re.Match object; span=(3094, 3098), m
 
 
 
-
-##
-
 ## Project Status
 The project is still going on and will be completed as a full application.
+
 Also, UI, Asynchronous IO, Unit test and a seperate database will be added soon.
